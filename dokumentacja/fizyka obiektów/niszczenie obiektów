@@ -1,0 +1,9 @@
+Każdy obiekt w świecie gry(poza terenem) jest zniszczalny.
+Każdy składa się z 2 siatek: zwykłej oraz pociętej.
+gdy obiekt otrzyma wystarczająco obrażeń aby go zniszczyć:
+-wydziela dym(aby zamaskować zmianę);
+-siatka zmienia się na pociętą;
+-każdy element dostaje fizykę rigid body;
+-w miejscu otrzymania ostatnich obrażen(tam gdzie trafi rakieta/topór) wytwarza się impuls który daje prędkość początkową elementom;
+-po jakimś czasie(gdy element wytraci prawie całą prędkość) wyłącza się fizyka;
+-obiekty zostają w świecie gry z koliderami;
