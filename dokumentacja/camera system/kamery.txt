@@ -1,0 +1,16 @@
+1st person:
+-kamera zaparentowana do koœci g³owy,
+-model g³owy(osobny od cia³a) zmika gdy kamera jest w trybie pierwszoosobowym
+
+3rd peron:
+-gracz ustawia kamerê w odpowiadaj¹cej mu pozcji i odleg³oœci
+-kamera stara siê pozostaæ w tej pozycji wzglêdem postaci(nie jest zaparentowana tylko œledzi to po³o¿enie)
+-kamera ma swój w³asny kolider(jego rozmiar jest taki by umo¿liwia³ niewchodzenie w œciany)
+-kamera w ka¿dej klatce sprawdza czy pomiêdzy ni¹ a g³ow¹ postaci nie ma przeszkód, jeœli jest zbli¿a siê do niej aby byæ przed przeszkod¹
+
+prze³¹czanie:
+-dowolne
+-w bardzo ma³ych pomieszczeniach(gdy œciany s¹ zbyt blisko pleców postaci) kamera prze³¹cza siê w 1st person
+-prze³¹czanie jest p³ynne, nie skokowe
+
+przy sprincie postaci kamera patrzy w dó³, ogranczaj¹c widocznoœæ
