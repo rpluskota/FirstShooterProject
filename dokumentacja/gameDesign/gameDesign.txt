@@ -19,8 +19,17 @@ W chwili gdy postać zostanie uderzona w baterię, istnieje procentowa szansa na
 W chwili gdy gracza poziom życia (uszkodzenia mecha) spadną do 0,
 bądź bateria się wyładuje gra się kończy z możliwością zaczęcia rozgrywki od początku. 
 
+Gdy energia spadnie poniżej pewnego % zasilania, postać wchodzi w tryb oszczędzania energi: zuzycie energi spadnie, a energia
+przekazywana do komponentów będzie niższa co sprawi mniejszą siłę danych dodatkłów. 
+
+
 Każdy element ekwipunku osobnie zużywa energię z głównej baterii w zależności od intensywności go uzywania. 
 (co zmusza do rozsądnego używania dostępnych dla nas zasobów i uniemożliwia korzystania ze wszystkich bonusów naraz)
 
+Przy śmierci postaci, HUD staje się czerwony i pojawiają się migające kontrolki a na środku napis typu "ERROR: NO POWER, SHUTDOWNING...".
+
+Okienko z ekwipunkiem: każdy modifykowalny (z możliwoscią zmiany) przedmiot graficznie przedstawiony w oknie, z krótkim opisem i statystykami.
+
 W grze dostępnę będzie również znalezienie smaczków (easter-eggów) związanych z UG czy naszym wydziałem. 
 
+W razie pomysłów / zazaleń pisać na trello w IDEAS, bądź zrobić nowy issue na githubie.
