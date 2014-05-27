@@ -2,15 +2,25 @@ W świecie każda postać jest mechem. Każdy mech spawni się z szansą na ró�
 - lepsza broń -> mocniejszy dmg, wiekszy radius, większy zasięg
 - lepsze nogi -> wyższe skoki, szybsze poruszanie się
 - dodatki (umożliwienie latania, niewidzialności, superszybkości, widzenia przez sciany)
-Przy zabiciu danej postaci przez gracza, istnieje szansa na to, że zabita postać jest w stanie wydropić część bądź całość wylosowanego przez siebie ekwipunku. Każdy przedmiot, który ma możliwość zmiany właściciela, jest częścią mecha, co utrudnia posiadanie wszystkich części naraz, co powoduje, że trzeba wybierać między potrzebnymi częściami. 
+Przy zabiciu danej postaci przez gracza, istnieje szansa na to, że zabita postać jest w stanie 
+wydropić część bądź całość wylosowanego przez siebie ekwipunku. Każdy przedmiot, 
+który ma możliwość zmiany właściciela, jest częścią mecha, co utrudnia posiadanie wszystkich części naraz, 
+co powoduje, że trzeba wybierać między potrzebnymi częściami. 
 
-Co wyższy poziom trudności (e.g etap/falę enemy mechów/wybór poziomu trudnosci w menu) dodatki noszone przez NPC mają mocniejsze statystyki a ich ataki są efektywniejsze (auto aim na head przykładowo).
+Co wyższy poziom trudności (e.g etap/falę enemy mechów/wybór poziomu trudnosci w menu) 
+dodatki noszone przez NPC mają mocniejsze statystyki a ich ataki są efektywniejsze (auto aim na head przykładowo).
 
-Każda postać jest na energię elektryczną, przechowywaną w bateriach wbudowanych w korpus z tyłu. Baterie można ładować (np. stojąc w miejscu nic nie robiąc bądź podłączając się do zewnętrznego akumulatora). Baterie można też wymieniać, np. jeśli nasza bateria ma 51% a poległego przeciwnika 70%, można spokojnie je wymienić. W chwili gdy postać zostanie uderzona w baterię, istnieje procentowa szansa na to, że bateria uległa zniszczeniu co powoduje natychmiastowe rozładowanie się baterii kończąc żywot danej postaci. 
+Każda postać jest na energię elektryczną, przechowywaną w bateriach wbudowanych w korpus z tyłu. 
+Baterie można ładować (np. stojąc w miejscu nic nie robiąc bądź podłączając się do zewnętrznego akumulatora). 
+Baterie można też wymieniać, np. jeśli nasza bateria ma 51% a poległego przeciwnika 70%, można spokojnie je wymienić.
+W chwili gdy postać zostanie uderzona w baterię, istnieje procentowa szansa na to,
+że bateria uległa zniszczeniu co powoduje natychmiastowe rozładowanie się baterii kończąc żywot danej postaci. 
 
-W chwili gdy gracza poziom życia (uszkodzenia mecha) spadną do 0, bądź bateria się wyładuje gra się kończy z możliwością zaczęcia rozgrywki od początku. 
+W chwili gdy gracza poziom życia (uszkodzenia mecha) spadną do 0,
+bądź bateria się wyładuje gra się kończy z możliwością zaczęcia rozgrywki od początku. 
 
-Każdy element ekwipunku osobnie zużywa energię z głównej baterii w zależności od intensywności go uzywania. (co zmusza do rozsądnego używania dostępnych dla nas zasobów i uniemożliwia korzystania ze wszystkich bonusów naraz)
+Każdy element ekwipunku osobnie zużywa energię z głównej baterii w zależności od intensywności go uzywania. 
+(co zmusza do rozsądnego używania dostępnych dla nas zasobów i uniemożliwia korzystania ze wszystkich bonusów naraz)
 
 W grze dostępnę będzie również znalezienie smaczków (easter-eggów) związanych z UG czy naszym wydziałem. 
 
