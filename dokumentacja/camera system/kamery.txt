@@ -1,6 +1,6 @@
 1st person:
 -kamera zaparentowana do kości głowy,
--model g�owy(osobny od ciała) zmika gdy kamera jest w trybie pierwszoosobowym
+-model głowy(osobny od ciała) zmika gdy kamera jest w trybie pierwszoosobowym
 
 3rd peron:
 -gracz ustawia kamerę w odpowiadającej mu pozcji i odległości
