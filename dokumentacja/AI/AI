@@ -1,0 +1,17 @@
+-przeciwnicy posiadają statystyki:
+	-szerokość pola widzenia
+	-maksymalny zasięg widzenia
+	-maksymalny zasięg słyszenia
+-każdy przeciwnik posiada 2 tryby AI: zaalarmowany oraz spokojny
+-w trybie spokojnym:
+	-postać wykonuje swój algorytm zachowania(np picie piwa, przechadzka, stanie na straży)
+	-nie reaguje na dzwięki	
+	-nie rozgląda się
+-w trybie zaalarmowanym: 
+	-postać rozgląda się często chaotycznie, 
+	-nasłuchuje kroków, 
+	-atakuje postać którą widzi, 
+	-gdy straci wroga z pola widzenia biegnie do punktu w którym ostatnio był widziany, 
+	-po jakimś czasie od przejścia w tryb zaalarmowany zaczyna alarmować innych npc w zasięgu słuchu
+	-wywołującym alarm jest tylko postać która widziała wroga
+
