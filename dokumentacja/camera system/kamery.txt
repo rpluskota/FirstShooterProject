@@ -1,0 +1,16 @@
+1st person:
+-kamera zaparentowana do kości głowy,
+-model g�owy(osobny od ciała) zmika gdy kamera jest w trybie pierwszoosobowym
+
+3rd peron:
+-gracz ustawia kamer� w odpowiadaj�cej mu pozcji i odleg�o�ci
+-kamera stara si� pozosta� w tej pozycji względem postaci(nie jest zaparentowana tylko śledzi to położenie)
+-kamera ma swój własny kolider(jego rozmiar jest taki by umożliwiał niewchodzenie w ściany)
+-kamera w każdej klatce sprawdza czy pomiędzy nią a głową postaci nie ma przeszkód, jeśli jest zbliła się do niej aby być przed przeszkodą
+
+przełączanie:
+-dowolne
+-w bardzo malych pomieszczeniach(gdy ściany są zbyt blisko pleców postaci) kamera przełącza się w 1st person
+-przełączanie jest płynne, nie skokowe
+
+przy sprincie postaci kamera patrzy w dół, ogranczając widoczność
