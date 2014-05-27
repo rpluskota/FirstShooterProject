@@ -1,0 +1,5 @@
+- gracz dostaje skrypt <wasd.cs>, w ustawieniach skryptu mo¿na zwiêkszyæ prêdkoœæ oraz si³ê skoku.
+
+- gracz dostaje skrypt <MouseLook.cs> i ma ustawiony atrybut Axes : MouseX
+
+- kamera musi byæ synem gracza (póŸniej mo¿e dopiszê skrypt do kamery) oraz dostaje skrypt <MouseLook.cs>, przestawiamy atrybut Axes : MouseY
