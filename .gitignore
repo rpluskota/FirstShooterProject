@@ -32,5 +32,8 @@
 *.user
 *.unityproj
 *.booproj
-
+[Tt]emp/
+[Oo]obj/
+[Uu]nityGenerated/
+[Ll]ibrary/
 
