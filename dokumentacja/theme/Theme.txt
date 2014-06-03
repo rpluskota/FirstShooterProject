@@ -1,5 +1,6 @@
 Theme:
 
-NPC and PC mechy/roboty/cyborgi
-
-UG Okolice || BUG 
+-Postapokaliptyczna wizja uniwersytetu, zarośnięte pnączami i nadgryzione wiatrem oraz deszczem budynki.
+-akcja dzieje się w budynku biblioteki(mniej więcej, można dodać lakieś jaboratoria w piwnicach itp)
+-głównymi bochaterami gry są mechy
+-good references: Portal 2, Stalker, Fallout NV, Fallen Earth
